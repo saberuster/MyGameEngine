@@ -7,5 +7,5 @@ namespace My
     {
     public:
         virtual ~GraphicsManager() {}
-    }
+    };
 } // namespace My
